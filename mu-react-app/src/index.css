@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: #f0f4f8;
+}
+.continer{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0; */
+}
